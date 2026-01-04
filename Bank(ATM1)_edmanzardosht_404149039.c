@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+//saeed heydari  404149031
+//edman zardosht 404149039
+
 int main() {
 
     char firstName[20], lastName[20];
